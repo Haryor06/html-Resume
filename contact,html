@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content type" content="text/html; charset=UTF-8">
+        <title>Contact Me</title>
+    </head>
+    <body cz-shortcut-listen="true">
+        <h1>My Contact Details</h1>
+          <p>Tel: +234 9028314008</p>
+          <p>Email: lincolndan09@gmail.com</p>
+          <p>Address:123 Sapade Street Eti-OSa.Lagos,Nigeria.</p>
+          <hr>
+    </body>
+</html>
